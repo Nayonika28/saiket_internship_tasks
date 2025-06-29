@@ -1,0 +1,15 @@
+2025-06-29 20:16:02.591 +07:00 [INF] This only goes file...
+2025-06-29 20:16:02.955 +07:00 [INF] Foo
+2025-06-29 20:16:03.001 +07:00 [DBG] Finding descriptors for initialize
+2025-06-29 20:16:03.156 +07:00 [DBG] Queueing "Serial":initialize:0 request for processing
+2025-06-29 20:16:03.177 +07:00 [DBG] Starting: Processing request initialize 0
+2025-06-29 20:16:03.178 +07:00 [DBG] Starting: Routing Request (0) initialize
+2025-06-29 20:16:03.182 +07:00 [VRB] Converting params for Request (0) initialize to OmniSharp.Extensions.LanguageServer.Protocol.Models.InternalInitializeParams
+2025-06-29 20:16:03.183 +07:00 [VRB] Converting params for Notification initialize to OmniSharp.Extensions.LanguageServer.Protocol.Models.InternalInitializeParams
+2025-06-29 20:16:03.583 +07:00 [VRB] Could not write to output handler, perhaps serialization failed?
+System.Threading.Channels.ChannelClosedException: The channel has been closed.
+   at System.Threading.Channels.AsyncOperation`1.GetResult(Int16 token)
+   at OmniSharp.Extensions.JsonRpc.OutputHandler.ProcessOutputStream(CancellationToken cancellationToken)
+2025-06-29 20:16:03.660 +07:00 [VRB] Response value was OmniSharp.Extensions.LanguageServer.Protocol.Models.InitializeResult
+2025-06-29 20:16:03.661 +07:00 [DBG] Finished: Routing Request (0) initialize in 482ms
+2025-06-29 20:16:03.661 +07:00 [DBG] Finished: Processing request initialize 0 in 483ms
