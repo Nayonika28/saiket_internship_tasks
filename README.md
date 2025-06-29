@@ -56,3 +56,42 @@ This task enhanced my CSS styling and layout skills, including hover effects and
 
 **Internship:** Saiket Systems  
 **Task:** 2 of 6  
+
+# 🌐 Task 3 – Responsive Webpage Layout
+
+This task was completed as part of the **Front-End Development Internship** at **Saiket Systems**.
+
+## 📌 Task Overview
+
+Designed a responsive webpage layout with the following four sections:
+
+- ✅ Header
+- ✅ Sidebar
+- ✅ Main Content Area
+- ✅ Footer
+
+The layout adjusts based on screen size:
+- 💻 **Grid layout** for desktops
+- 📱 **Stacked layout** for mobile devices using media queries
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Grid, Flexbox, Media Queries)
+
+## 📸 Layout Preview
+
+| Desktop View | Mobile View |
+|--------------|-------------|
+| Grid layout with sidebar and content side by side | Stacked sections vertically for mobile responsiveness |
+
+> *(Note: You can include actual screenshots once you run the layout)*
+
+## 💡 Learning Outcome
+
+This task helped strengthen my understanding of **CSS Grid**, **media queries**, and how to build fully responsive web pages that adapt seamlessly across devices.
+
+---
+
+**Internship:** Saiket Systems  
+**Task:** 3 of 6  
