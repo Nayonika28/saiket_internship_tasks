@@ -14,9 +14,7 @@ As part of the Front-End Development Internship at **Saiket Systems**, this task
 
 - HTML5
 
-## 📸 Preview
 
-![Blog Screenshot](https://via.placeholder.com/600x300)
 
 ## 🧠 Learning Outcome
 
@@ -44,9 +42,7 @@ In this task for the Saiket Systems Front-End Internship, I designed a visually 
 - HTML5
 - CSS3
 
-## 📸 Preview
 
-![Product Card Screenshot](https://via.placeholder.com/300x200)
 
 ## 💡 Learning Outcome
 
@@ -85,7 +81,7 @@ The layout adjusts based on screen size:
 |--------------|-------------|
 | Grid layout with sidebar and content side by side | Stacked sections vertically for mobile responsiveness |
 
-> *(Note: You can include actual screenshots once you run the layout)*
+
 
 ## 💡 Learning Outcome
 
@@ -116,9 +112,6 @@ As part of the **Front-End Development Internship** at **Saiket Systems**, this 
 - CSS3 (Custom styling, responsive layout)
 - JavaScript (DOM manipulation, logic, validation)
 
-## 📸 Screenshots
-
-> *(Add your screenshots here after running it locally)*
 
 ## 🎯 Learning Outcome
 
@@ -151,9 +144,7 @@ This project was built as part of my **Front-End Development Internship** at **S
 - CSS3 (Modern responsive design)
 - JavaScript (DOM manipulation and dynamic updates)
 
-## 📸 Screenshots
 
-> *(Include screenshots here if you're uploading to GitHub)*
 
 ## 🎯 Learning Outcomes
 
