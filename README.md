@@ -132,3 +132,40 @@ This task strengthened my skills in:
 **Internship:** Saiket Systems  
 **Task:** 4 of 6 – Quiz App  
 
+# ✅ Task 5 – Professional To-Do List App
+
+This project was built as part of my **Front-End Development Internship** at **Saiket Systems**. Task 5 challenged me to create a fully functional and attractive **To-Do List App** using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ✔️ Mark tasks as complete/incomplete
+- 🗑️ Delete tasks
+- 📱 Fully responsive for mobile and desktop
+- 💅 Clean, dashboard-style UI with smooth transitions
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3 (Modern responsive design)
+- JavaScript (DOM manipulation and dynamic updates)
+
+## 📸 Screenshots
+
+> *(Include screenshots here if you're uploading to GitHub)*
+
+## 🎯 Learning Outcomes
+
+This task enhanced my ability to:
+- Build user-friendly, interactive UIs with JavaScript
+- Handle real-time task editing and deletion
+- Implement responsive layouts using Flexbox
+- Apply modular styling and structure in a real-world scenario
+
+---
+
+**Internship:** Saiket Systems  
+**Task:** 5 of 6 – To-Do List App  
+
+
