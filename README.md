@@ -168,4 +168,45 @@ This task enhanced my ability to:
 **Internship:** Saiket Systems  
 **Task:** 5 of 6 – To-Do List App  
 
+# 🌐 Task 6 – Landing Page Clone | Saiket Systems Internship
 
+This project is part of my **Front-End Development Internship** at **Saiket Systems**.  
+The goal was to **clone a real-world landing page** with an appealing and responsive layout, using modern HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Project Overview
+
+- 🏷️ **Project Name**: SaiKet Systems - Gradient Landing Page Clone
+- 💻 **Tech Stack**: 
+  - HTML5 (Semantic Layout)
+  - CSS3 (Responsive Design with Multi-Layer Gradients)
+  - JavaScript (Interactivity & Validation)
+
+---
+
+## 🎨 Features
+
+- 🔥 Multi-gradient backgrounds for modern aesthetic
+- 🧠 Semantic structure & clean code
+- 📱 Fully responsive layout for mobile and desktop
+- 🧾 Smooth scrolling and section-based design
+- ✉️ Interactive contact form with alert
+
+---
+
+## 📂 How to Run the Project
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+3. Explore the design and functionality
+
+---
+
+
+## 👩‍💻 Developed By
+
+**Nayonika**  
+Intern at Saiket Systems
+**Task:** 6 of 6 – clone a real-world landing page
+---
