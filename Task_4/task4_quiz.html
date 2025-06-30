@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="task4_quiz.css" />
+</head>
+<body>
+  <div class="container">
+    <!-- Start Page -->
+    <div id="start-screen">
+      <h1>🎓 Welcome to Quiz Master</h1>
+      <p>Test your knowledge with 3 fun questions!</p>
+      <button id="start-btn">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Box -->
+    <div id="quiz-box" class="hidden">
+      <div class="progress">Question <span id="current-q">1</span> of <span id="total-q">3</span></div>
+      <h2 id="question-text"></h2>
+      <div id="options-container"></div>
+      <button id="next-btn">Next ➡️</button>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="hidden">
+      <h2>Your Score: <span id="score"></span></h2>
+      <p id="emoji-result"></p>
+      <button id="restart-btn">Restart Quiz 🔁</button>
+    </div>
+  </div>
+
+  <script src="task4_quiz.js"></script>
+</body>
+</html>
