@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SaiKet Systems | Landing Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>SaiKet Systems</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Innovating the Future</h2>
+    <p>Crafting Smart Solutions with Cloud, AI & Blockchain</p>
+    <button onclick="alert('Thank you for exploring SaiKet!')">Get Started</button>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Us</h2>
+    <p>SaiKet Systems delivers transformative technologies and scalable digital services that empower innovation in today's tech-driven world.</p>
+  </section>
+
+  <section id="services" class="services">
+    <h2>Our Expertise</h2>
+    <div class="cards">
+      <div class="card">⚙️ Cloud Computing</div>
+      <div class="card">🔒 Blockchain Solutions</div>
+      <div class="card">🧠 AI & Machine Learning</div>
+      <div class="card">📊 Data Analytics</div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <form onsubmit="submitForm(event)">
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea placeholder="Your Message" rows="4" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 SaiKet Systems Clone | Designed by Nayonika</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
