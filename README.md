@@ -95,3 +95,40 @@ This task helped strengthen my understanding of **CSS Grid**, **media queries**,
 
 **Internship:** Saiket Systems  
 **Task:** 3 of 6  
+
+# 🎓 Task 4 – Responsive & Interactive Quiz Application
+
+As part of the **Front-End Development Internship** at **Saiket Systems**, this task involved building a fully interactive and mobile-friendly quiz web application using **HTML**, **CSS**, and **JavaScript**.
+
+## 🚀 Features
+
+- ✅ **Start Page** with welcome message and “Start Quiz” button
+- ❓ **3 Multiple-Choice Questions**
+- 🟢 Real-time answer validation with correct/wrong highlights
+- 📊 **Score calculation** with emoji-based feedback
+- 🔁 Option to restart the quiz
+- 📱 **Fully Responsive UI** using flexbox and media queries
+- 🎨 **Creative design** with modern styles and transitions
+
+## 💡 Technologies Used
+
+- HTML5
+- CSS3 (Custom styling, responsive layout)
+- JavaScript (DOM manipulation, logic, validation)
+
+## 📸 Screenshots
+
+> *(Add your screenshots here after running it locally)*
+
+## 🎯 Learning Outcome
+
+This task strengthened my skills in:
+- DOM manipulation and interactive UIs using JS
+- Responsive design principles with media queries
+- Creating engaging user interfaces
+
+---
+
+**Internship:** Saiket Systems  
+**Task:** 4 of 6 – Quiz App  
+
